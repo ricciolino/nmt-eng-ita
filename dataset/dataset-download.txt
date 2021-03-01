@@ -1,0 +1,1 @@
+Please download this (http://www.manythings.org/anki/ita-eng.zip) file, place it under this folder and rename it as `en_it.txt´.
